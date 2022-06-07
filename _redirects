@@ -1,3 +1,4 @@
 # Redirects from what the browser requests to what we serve
 /BIB/panelUser/userPanel.html              https://bib-tfg.netlify.app/paneluser/userpanel
+/BIB/panelUser/chart.html              https://bib-tfg.netlify.app/paneluser/chart
 
